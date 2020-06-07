@@ -38,5 +38,34 @@
     "53":"PD4",
     "id":365,
     "tableid":36
+  },
+  {
+    "47":"Summary",
+    "48":"Text",
+    "49":"True",
+    "50":"Control = Family Code | All else = Title of the item",
+    "53":"DEV",
+    "id":366,
+    "tableid":36
+  },
+  {
+    "47":"Project name",
+    "48":"Calcuted",
+    "49":"True",
+    "50":"Project Key is 3 digit code added in front of issue key",
+    "52":"Jira Project Name",
+    "53":"PD4, TPR",
+    "id":367,
+    "tableid":36
+  },
+  {
+    "47":"Created",
+    "48":"Calcuted",
+    "49":"True",
+    "50":"Date item was created",
+    "52":"ID",
+    "53":"PD4, TPR",
+    "id":368,
+    "tableid":36
   }
 ]
