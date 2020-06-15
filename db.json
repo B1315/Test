@@ -2,7 +2,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Active",
     "50":"Field Description",
     "52":"Tag1, Tag2, Tag3",
     "53":"PD4",
@@ -12,7 +12,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Inactive",
     "50":"Field Description",
     "52":"Tag1, Tag2, Tag3",
     "53":"PD4, TPR",
@@ -22,7 +22,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"False",
+    "49":"Historic",
     "50":"Field Description",
     "52":"Tag1, Tag2, Tag3",
     "53":"PD4, TPR, DEV",
@@ -32,7 +32,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"False",
+    "49":"Historic",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"PD4, TPR, DEV",
@@ -42,7 +42,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Inactive",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"TPR, DEV",
@@ -52,7 +52,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"False",
+    "49":"Active",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
@@ -62,7 +62,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Active",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
@@ -72,7 +72,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Inactive",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
@@ -82,7 +82,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Historic",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
@@ -92,7 +92,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Inactive",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
@@ -102,7 +102,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"True",
+    "49":"Active",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
