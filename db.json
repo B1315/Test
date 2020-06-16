@@ -22,7 +22,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"Historic",
+    "49":"Temporary",
     "50":"Field Description",
     "52":"Tag1, Tag2, Tag3",
     "53":"PD4, TPR, DEV",
@@ -32,7 +32,7 @@
   {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"Historic",
+    "49":"Temporary",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"PD4, TPR, DEV",
@@ -82,7 +82,7 @@
     {
     "47":"Field Name",
     "48":"Field Type",
-    "49":"Historic",
+    "49":"Temporary",
     "50":"Field Description",
     "52":"Tag1, tag2, Tag3",
     "53":"DEV",
